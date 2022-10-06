@@ -1,0 +1,30 @@
+nav ul{
+    list-style: none;
+    padding-left: 0px;
+    display:flex;
+    justify-content: space-around;
+}
+nav li {
+    border: 2px solid black;
+    padding: 10px 5px;
+    size: 70px;
+}
+.active{
+    background-color: gainsboro
+}footer{
+     margin-top:30px;
+ }
+.footerInfo{
+    font-size: 80%;
+    text-align: center;
+    margin: auto;
+}
+#text1{
+    margin-right:auto;
+    padding-right:40%;
+    display: inline-flex;
+}
+#text2{
+    padding-left: 40%;
+    display: inline-flex;
+}
