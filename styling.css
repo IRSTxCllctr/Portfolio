@@ -31,3 +31,8 @@ nav li {
 #text3{
     justify-content: center;
 }
+.contacts{
+    display: inline-flex;
+    padding: 3px;
+    margin: 3px;
+}
