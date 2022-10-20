@@ -1,0 +1,12 @@
+.mainHeading{
+    justify-self: center;
+    margin-left: 40%;
+    margin-right: 40% ;
+}
+.location{
+    display: inline-flex;
+
+}
+.date{
+    margin-left: 70%;
+}
