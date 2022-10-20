@@ -35,3 +35,7 @@ nav li {
 div{
     display: flex;
 }
+.text{
+    margin-left: 10px;
+    margin-right: 10px;
+}
