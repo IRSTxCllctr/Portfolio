@@ -2,6 +2,13 @@
     justify-self: center;
     margin-left: 40%;
     margin-right: 40% ;
+    text-align: center;
+}
+.centered{
+    justify-self: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: center;
 }
 .location{
     display: inline-flex;
